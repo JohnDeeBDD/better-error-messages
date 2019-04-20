@@ -10,6 +10,7 @@
 
 ini_set('error_prepend_string','<div class="notice notice-error is-dismissible">')  ;
 ini_set('error_append_string',"</div>")  ;
+
 //ini_set('warning_prepend_string','<div class="notice notice-error is-dismissible">')  ;
 //ini_set('warning_append_string',"</div>")  ;
 //ini_set('display_errors', 1);
